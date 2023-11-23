@@ -1,0 +1,1 @@
+# IISRO-Project-1-Solar-Power-Potential-Mapping-in-India-using-Remote-Sensing
